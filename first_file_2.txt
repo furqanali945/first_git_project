@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My first text file commit for master checkc
+=======
+file data has been changed to check new branch
+>>>>>>> shorten_title
